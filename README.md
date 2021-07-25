@@ -1,6 +1,6 @@
 # WeplanSDK for Expo
 
-Weplan SDK for managed expo applications
+Weplan SDK for managed expo applications. This SDK will work with Expo 42 or greater
 
 ## Usage
 
