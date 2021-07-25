@@ -1,0 +1,16 @@
+{
+  "name": "weplan-expo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@expo/config-plugins": "^3.0.5",
+    "dotenv": "^10.0.0",
+    "react-native": "*"
+  }
+}
